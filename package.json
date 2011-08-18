@@ -1,0 +1,13 @@
+{
+    "name": "posterous-helper"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.4.3"
+    , "jade": ">= 0.0.1"
+    , "coffee-script": "~1.1.2"
+  }
+  , "devDependencies": {
+      "jasmine-node": "~1.0.6"
+  }
+}
